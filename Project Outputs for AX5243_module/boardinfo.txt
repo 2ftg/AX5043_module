@@ -1,0 +1,5 @@
+50mm x 50mm 1.2mm thick FR4
+HASL
+Soldermask on top layer 
+6/6mil clearance. 
+Red PCB

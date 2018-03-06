@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [AX5043_module_pcb.PcbDoc]
+   Generated File[AX5043_module_pcb.TXT]
+   Generated File[AX5043_module_pcb.LDP]
+   Generated File[AX5043_module_pcb.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 22:27:00 On 6.3.2018
