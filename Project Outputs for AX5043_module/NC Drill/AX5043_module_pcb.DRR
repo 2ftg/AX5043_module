@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: AX5043_module_pcb.PcbDoc   6.3.2018  22:26:59
+NCDrill File Report For: AX5043_module_pcb.PcbDoc   7.3.2018  0:06:45
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,12 +7,13 @@ ASCII RoundHoles File : AX5043_module_pcb.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.2mm (8mil)                                              Round             4         PTH        3.30mm (0.13inch)
+T1      0.2mm (8mil)                                              Round             9         PTH        11.00mm (0.43inch)
 T2      0.3mm (12mil)                                             Round             1         PTH        0.00mm (0.00inch)
-T3      0.4mm (16mil)                                             Round             78        PTH        332.52mm (13.09inch)
+T3      0.4mm (16mil)                                             Round             52        PTH        269.59mm (10.61inch)
 T4      0.8mm (31mil)                                             Round             2         PTH        4.88mm (0.19inch)
-T5      0.9mm (35mil)                                             Round             20        PTH        86.98mm (3.42inch)
+T5      0.9mm (35mil)                                             Round             20        PTH        86.30mm (3.40inch)
+T6      2mm (79mil)                                               Round             4         PTH        132.50mm (5.22inch)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              105
+Totals                                                                              88
 
 Total Processing Time (hh:mm:ss) : 00:00:00
