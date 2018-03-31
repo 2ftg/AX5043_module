@@ -1,1 +1,2 @@
 Record=TopLevelDocument|FileName=AX5043_schema.SchDoc
+Record=SheetSymbol|SourceDocument=AX5043_schema.SchDoc|Designator=40MHz_PA|SchDesignator=40MHz_PA|FileName=40M_PA.SchDoc|SymbolType=Normal|RawFileName=40M_PA.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
